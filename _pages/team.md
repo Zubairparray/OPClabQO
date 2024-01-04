@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Quantum Optics Group"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Quantum Optics: Team members"
 sitemap: false
 permalink: /team/
 ---
